@@ -1,1 +1,6 @@
-The School is open!
+#!/bin/bash
+ update_script
+echo "The school is open!"
+
+echo "ALX School is so cool!"
+ main
